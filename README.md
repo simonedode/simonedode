@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi, I'm Simone 👋
 
 <!--
-**simonedode/simonedode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning HTML, CSS, PHP, JavaScript
+- 👯 I’m looking to collaborate on open source projects written in HTML, CSS, PHP, JS/jQuery
+- 📫 How to reach me: [Email](simonedode10@gmail.com)
+- 😄 Pronouns: He/him
