@@ -17,6 +17,6 @@ Here are some ideas to get you started:
     - Web Development - HTML, CSS, PHP, JS/jQuery  
     - Software Development - Java, Python, C, C#  
     - Database - MySQL
-- 👯 I’m looking to collaborate on open source projects written in HTML, CSS, PHP, JS/jQuery
+- 👯 I’m looking to collaborate on open source projects written in HTML, CSS, PHP, JS/jQuery or Java/Python
 - 📫 How to reach me: Email
 - 😄 Pronouns: He/him
