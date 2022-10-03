@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning HTML, CSS, PHP, JavaScript
+- ⚡ Skills:  
+    - Web Development - HTML, CSS, PHP, JS/jQuery  
+    - Software Development - Java, Python, C, C#  
+    - Database - MySQL
 - 👯 I’m looking to collaborate on open source projects written in HTML, CSS, PHP, JS/jQuery
-- 📫 How to reach me: [Email](simonedode10@gmail.com)
+- 📫 How to reach me: Email
 - 😄 Pronouns: He/him
