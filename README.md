@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - ⚡ Skills:  
     - Web Development - HTML, CSS, PHP, JS/jQuery  
-    - Software Development - Java, Python, C, C#  
+    - Software Development - Java, C, C#  
     - Database - MySQL
 - 👯 I’m looking to collaborate on open source projects written in HTML, CSS, PHP, JS/jQuery or Java/Python
 - 📫 How to reach me: Email
