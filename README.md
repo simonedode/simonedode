@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 - ⚡ Skills:  
-    - Web Development - HTML, CSS, PHP, JS/jQuery  
+    - Web Development - HTML, CSS, PHP, JS
     - Software Development - Java, C, C#  
     - Database - MySQL
-- 👯 I’m looking to collaborate on open source projects written in HTML, CSS, PHP, JS/jQuery or Java/Python
+- 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: Email
 - 😄 Pronouns: He/him
