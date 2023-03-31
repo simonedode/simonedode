@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - ⚡ Skills:  
-    - Web Development - HTML, CSS, PHP, JS, Laravel
+    - Web Development - HTML, CSS, PHP, JS, Laravel, React
     - Software Development - Java, C, C#  
     - Database - MySQL
 - 👯 I’m looking to collaborate on open source projects
