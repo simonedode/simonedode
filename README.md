@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 - ⚡ Skills:  
-    - Web Development - HTML, CSS, PHP, JS, Laravel, React
-    - Software Development - Java, C, C#  
+    - Web Development - HTML, CSS, PHP, JS, Laravel, React, .NET
+    - Software Development - Java, C++, C#
     - Database - MySQL
 - 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: Email
+- 📫 How to reach me: [Email](mailto:simonedode10@gmail.com)
 - 😄 Pronouns: He/him
