@@ -18,15 +18,10 @@ Welcome to my GitHub profile! I'm passionate about web and software development,
 You can reach me on:
 
 - [LinkedIn](https://www.linkedin.com/in/simone-redighieri-b4aa31252)
-- [Email](simonedode10@gmail.com)
+- [Email](mailto:simonedode10@gmail.com)
 
-<!--
-## GitHub Stats
+<!---
+## Github Stats-->
 
-![My GitHub stats](link to your GitHub stats image)
-
-Thanks for visiting my GitHub profile. I hope you find my projects interesting, and we can connect soon!
-```
-
-Remember to customize this README with your information and include links to your projects and social profiles.
--->
+<!---[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=simonedode&count_private=true&theme=tokyonight&showicons=true&hide=)]()-->
+<!---[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=simonedode&langs_count=3&theme=tokyonight)]()-->
