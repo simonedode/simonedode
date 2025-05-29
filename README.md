@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm passionate about web and software development,
 
 ## Who I Am
 
-- 📚 Student in Engineer and Computer Science
+- 🎓 Graduated in Engineer and Computer Science
 - 💼 Software Developer
-- 🌍 Based in Rimini
+- 🌍 Based in Rimini, Italy
 
 ## What I Do
 
